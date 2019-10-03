@@ -6,14 +6,14 @@ package com.RuanJiaHao;
 public class App {
 
   public static void main(String[] args) {
-    System.out.println("Hello World!");
+    System.out.println("gay");
   }
 
 
 
 
 
-  
+
 
     public static boolean comp(int[] a, int[] b) {
         if (a == null || b == null) {
