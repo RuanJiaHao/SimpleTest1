@@ -9,12 +9,6 @@ public class App {
     System.out.println("gay");
   }
 
-
-
-
-
-
-
     public static boolean comp(int[] a, int[] b) {
         if (a == null || b == null) {
             return false;
